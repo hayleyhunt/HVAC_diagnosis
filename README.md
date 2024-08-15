@@ -27,6 +27,7 @@ Chilled Water Return Temp: CHWR_Temp
 
   
 Prioritisation:
+
   • ACPC1 has the lowest mean temperature difference between supply and return which is below the 3 degrees threshold, followed by ACPC4 and ACPC2 mean temperature differences which are also below the 3 degrees threshold, and then ACPC3 mean temperature difference which is above the 3 degrees threshold.
   
   • ACPC1 has the highest percentage of its temperature difference datapoints beneath the 3 degrees threshold, and so investigation into this chiller should be prioritised, followed by ACPC4, ACPC2, and ACPC3. This aligns with the mean temperature difference prioritisation and mean flow rate prioritisation (detailed below).
@@ -39,6 +40,7 @@ Prioritisation:
 
   
 Prioritisation:
+
   • ACPC1 has the lowest mean flow rate, followed by ACPC4, ACPC2, and ACPC3. This means that ACPC1 could struggle the most to achieve optimal temperature differences perhaps due to restrictions or inefficiencies in the system that need to be addressed. Therefore, investigation into APC1 should be prioritised, followed by ACPC4, ACPC2 and ACPC3. This aligns with the mean temperature difference prioritisation and prioritisation based on the percentage of datapoints beneath 3 degrees (detailed above).
   
 
